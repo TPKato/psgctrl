@@ -1,0 +1,3 @@
+* PSG (AY-3-8910) Controller using AVR
+
+Visit [[https://www.chinpui.org/hack/basteln/psgctrl/]] for more details.
