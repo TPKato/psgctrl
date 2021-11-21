@@ -1,0 +1,42 @@
+;
+L4
+S13
+M1000
+;
+; test 1
+;
+CCCC
+R
+;
+; test 2
+;
+C&&&
+R
+;
+; test 3
+;
+C R C R C R
+;
+; test 4
+;
+V15 C2 R
+S14 C2 R
+;
+; test 5
+;
+S13
+M1000 C1 R
+M3000 C1 R
+M5000 C1 R
+;
+; test 6
+;
+M 2000
+S0  C1 R
+S4  C1 R
+S8  C1 R
+S10 C1 R
+S11 C1 R
+S12 C1 R
+S13 C1 R
+S14 C1 R

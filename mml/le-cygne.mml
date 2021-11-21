@@ -1,0 +1,110 @@
+;; Le Cygne
+;; From: LE CARNAVAL DES ANIMAUX - GRANDE FANTAISIE ZOOLOGIQUE by C. SAINT-SAËNS
+
+T60
+
+O4
+L4
+V15
+1: r1.
+2: g f+ > b < e d > g
+3: a2 &8 b8 < c2 r4
+4: > e2 l8 f+ g a b < c d e f+
+5: b2. &8 R8 R4 R4
+6: L4 g f+ > b < e d > g
+7: a+2 &8 b8 < c+2.
+; [1]
+8: > f+4. L8 g+ a+ b < c+ d e f+ g+ a+
+9: < d2. &8 r8 r4 r4
+10: L4 d > b g e f+ g
+11: d2 &8 e8 f+2 r4
+12: < c > a f d e f
+13: c2 &8 d8 e2 r4
+14: e > a b < c2 d8 e8
+15: f+2. e2 r4
+; [2]
+16: e > a b < c+2 d8 e8
+17: f2. f+2.
+18: g f+ > b < e d > g
+19: a2 &8 b8 < c2 r4
+20: > e2 L8 f+ g a b < c d e f+
+21: b1.
+; [3]
+L4
+22: b a e g f+ c
+23: e d > g a b g
+24: b2. < c d > b
+25: < e2. e f+ d
+26: g1.
+27: &2. &8 r8 r4 r4
+28: r8
+
+L16
+O4
+V12
+1: >b<dbg > b<dbg > b<dbg > b<dbg > b<dbg > b<dbg
+2: >b<dbg > b<dbg > b<dbg > b<dbg > b<dbg > b<dbg
+3:  ce<c>a ce<c>a ce<c>a ce<c>a ce<c>a ce<c>a
+4:  ce<c>a ce<c>a ce<c>a cf+<c>a cf+<c>a cf+<c>a
+5: >b<dbg > b<dbg > b<dbg > b<dbg > b<dbg > b<dbg
+6: >b<dbg > b<dbg > b<dbg > b<dbg > b<dbg > b<dbg
+7: c+e<c+>a+ c+e<c+>a+ c+e<c+>a+ c+e<c+>a+ c+e<c+>a+ c+e<c+>a+
+; [1]
+8: > b<dbf+ > b<dbf+ > b<dbf+ >a+<ea+f+ >a+<ea+f+ >a+<ea+f+
+9: df+bf+ df+bf+ df+bf+ df+bf+ df+bf+ df+bf+
+10: dg<d>b dg<d>b dg<d>b c+e<c+>g c+e<c+>g c+e<c+>g
+11: cd<c>g cd<c>g cd<c>g cd<c>f+ cd<c>f+ cd<c>f+
+12: cf<c>a cf<c>a cf<c>a >b<dbf >b<dbf >b<dbf
+13: >b-<cb-f >b-<cb-f >b-<cb-f >b-<cb-e >b-<cb-e >b-<cb-e
+14: >a<eae >a<eae >ab<ad >a<cae >a<cae >a<cae
+15: >a<daf+ >a<daf+ >a<daf+ >a<cae >a<cae >a<cae
+; [2]
+16: >ab<ad >ab<ad >ab<ad >a<c+ae >a<c+ae >a<c+ae
+17: >a<daf >b<daf cdaf cdaf+ cdbf+ cd<c>f+
+18: >b<dbg > b<dbg > b<dbg > b<dbg > b<dbg > b<dbg
+19:  ce<c>a ce<c>a ce<c>a ce<c>a ce<c>a ce<c>a
+20:  ce<c>a ce<c>a ce<c>a cf+<c>a cf+<c>a cf+<c>a
+21: >b<dbf >b<dbf >b<dba dg+<d>b dg+<d>b dg+<d>b
+; [3]
+22: ce<c>a ce<c>a ce<c>a cf+<c>a cf+<c>a cf+<c>a
+23: >b<dbg >b<dbg >b<dbg g2.
+24: >b<dbg dg<d>b gb<gd r2.
+25: >>b<ebg eg<e>b gb<ge c8 r8 r4 r4
+26: r4 <eg<e>b dg<d>b >b<ebg >b<dbg >eg<e>b
+27: dg<d>b >b<ebg >b<dbg >eg<e>b dg<d>b >b<dbg>
+28: b8
+
+L8
+O3
+V12
+1: >g<dgd>g<d >g<dgd>g<d
+2: >g<dgd>g<d >g<dgd>g<d
+3: >g<eae>g<e >g<eae>g<e
+4: >g<eae>g<e >g<dad>g<d
+5: >g<dgd>g<d >g<dgd>g<d
+6: >g<dgd>g<d >g<dgd>g<d
+7: >g<ea+e>g<e >f+<ea+e>f+<e
+; [1]
+8: >f+<df+d>f+<d >f+<c+f+c+>f+<c+
+9: >b<f+bf+>b<f+ >b<f+bf+>b<f+
+10: >b<dbd>b<d >b-<db-d>b-<d
+11: >a<dad>a<d >d<dad>d<d
+12: >a<cac>a<c >a-<ca-c>a-<c
+13: >a<cgc>a<c >c<cgc>c<c
+14: >fa<f>afa ea<e>aea
+15: da<d>ada ea<e>aea
+; [2]
+16: fa<f>afa ea<e>aea
+17: da<d>ada <c>cb>b<a>a<
+18: g<dgd>g<d >g<dgd>g<d
+19: >g<eae>g<e >g<eae>g<e
+20: >g<eae>g<e >g<dad>g<d
+21: >g<dgd>fb eb<g+>beb
+; [3]
+22: a<eae>a<e >a<f+af+>a<f+
+23: >b<dgd>b<d e2.
+24: dgb g<d>b R2.
+25: >d4 R4 R4 <d8 R8 R4 R4
+26: r4 o5 be bd e>b <d>b be
+27: bd e>b <d>b be bd gd
+28: >g
